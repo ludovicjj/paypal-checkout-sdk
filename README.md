@@ -28,3 +28,8 @@ PAYPAL_SECRET_KEY=YOU-SECRET-KEY
 ```
 php -S localhost:8000 -t public
 ```
+
+## Useful ressources
+
+- [Checkout-php-sdk](https://packagist.org/packages/paypal/paypal-checkout-sdk)
+- [JavaScript SDK reference](https://developer.paypal.com/sdk/js/reference/)
